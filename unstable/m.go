@@ -1,4 +1,4 @@
-package prerelease
+package unstable
 
 import "fmt"
 
